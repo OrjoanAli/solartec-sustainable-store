@@ -1,6 +1,6 @@
 # ☀️ Solartec – Sustainable Energy E-Business Website
 
-Welcome to **t**, a modern web platform designed to promote and sell **eco-friendly and renewable energy devices**.  
+Welcome to **Solartec**, a modern web platform designed to promote and sell **eco-friendly and renewable energy devices**.  
 Developed as part of my **E-Business course project**, SolarTec combines clean design, smart functionality, and a mission-driven purpose — making sustainable technology more accessible online.  
 
 ---
